@@ -10,12 +10,19 @@ function Blog() {
       align="flex-start"
       minH="500px"
       w="40%"
+      fontFamily="cursive"
     >
-      <Text fontSize="1.8rem">Hello,</Text>
-      <Heading fontSize="2.8rem">Akogwu Emmanuel </Heading>
+      <Text fontSize="2em" fontFamily="Dancing Script, cursive">
+        Hello,
+      </Text>
+      <Heading fontSize="2.8rem" fontFamily="cursive" m="5px 0 20px 0">
+        Akogwu Emmanuel
+      </Heading>
       <Text fontSize="1.3rem" textAlign="justify">
-        I am a Software Developer, Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Voluptatum maiores tempora enim neque ullam?{" "}
+        I am a Software Developer, Lorem ipsum dolor sit amet consectetur,
+        adipisicing elit. Nam laudantium voluptates, sit vitae, cumque porro
+        eligendi magni dolor modi ducimus delectus maxime est deleniti itaque
+        neque numquam fugit sunt. Perferendis.
       </Text>
       <MainButton />
     </Flex>

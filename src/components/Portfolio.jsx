@@ -21,7 +21,7 @@ function Portfolio() {
             <Blog />
             <Box>
               <Image
-                w="400px"
+                w="425px"
                 objectFit="cover"
                 opacity=".5"
                 src="https://p.kindpng.com/picc/s/370-3704992_svg-black-and-white-library-computer-programmer-clipart.png"

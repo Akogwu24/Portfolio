@@ -13,7 +13,8 @@ function MianButton() {
       bg="#ad6507"
       borderEndRadius="50px"
       borderStartEndRadius="8px"
-      //fontVariantCaps="small-caps"
+      fontFamily="cursive"
+      fontVariantCaps="smallCaps"
     >
       Hire Me
     </Button>
