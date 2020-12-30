@@ -23,3 +23,5 @@
 [1229/123007.422:ERROR:exception_snapshot_win.cc(99)] thread ID 6076 not found in process
 [1229/123007.422:ERROR:exception_snapshot_win.cc(99)] thread ID 11248 not found in process
 [1229/123007.422:ERROR:exception_snapshot_win.cc(99)] thread ID 4256 not found in process
+[1230/124502.936:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1230/160347.600:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
