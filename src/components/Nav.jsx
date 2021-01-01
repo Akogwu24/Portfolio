@@ -8,7 +8,7 @@ function Nav() {
       <HStack spacing="33px" fontSize="1.1rem" fontFamily="cursive">
         <Link>Home</Link>
         <Link>About Me</Link>
-        <Link>Projects</Link>
+        <Link>More Projects</Link>
         <Link>Journery So Far</Link>
       </HStack>
     </Flex>

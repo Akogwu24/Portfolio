@@ -3,6 +3,7 @@ import { Box, Stack, Image, Flex } from "@chakra-ui/react";
 import Blog from "./Blog";
 import Nav from "./Nav";
 import Contact from "./Contact";
+import Projects from "./Peojects";
 
 function Portfolio() {
   return (
@@ -32,6 +33,7 @@ function Portfolio() {
           <Contact />
         </Box>
       </Box>
+      <Projects />
     </Stack>
   );
 }
