@@ -1,0 +1,2 @@
+* add a Project component to the page and "More projects page" which will be be acessed via the projects link in the nav
+* Add tech stack (skills) component to atfer the projects component on the home page
