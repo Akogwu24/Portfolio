@@ -3,11 +3,11 @@ import { Box, Stack, Image, Flex } from "@chakra-ui/react";
 import Blog from "./Blog";
 import Nav from "./Nav";
 import Contact from "./Contact";
-import Projects from "./Peojects";
+import Projects from "./Projects";
 
 function Portfolio() {
   return (
-    <Stack h="100vh" bg="rgba(0, 0, 0, .7)">
+    <Stack bg="rgba(0, 0, 0, .7)">
       <Box
         bg="rgba(0, 0, 0, .9)"
         h="90vh"
@@ -22,7 +22,7 @@ function Portfolio() {
             <Blog />
             <Box>
               <Image
-                w="425px"
+                w="320px"
                 objectFit="cover"
                 opacity=".5"
                 src="https://p.kindpng.com/picc/s/370-3704992_svg-black-and-white-library-computer-programmer-clipart.png"

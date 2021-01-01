@@ -5,11 +5,10 @@ function Nav() {
   return (
     <Flex justify="space-between" align="center" my="20px">
       <Heading fontFamily="Pacifico, cursive">Emak</Heading>
-      <HStack spacing="33px" fontSize="1.1rem" fontFamily="cursive">
+      <HStack spacing="40px" fontSize="1.1rem" fontFamily="cursive">
         <Link>Home</Link>
         <Link>About Me</Link>
         <Link>More Projects</Link>
-        <Link>Journery So Far</Link>
       </HStack>
     </Flex>
   );
