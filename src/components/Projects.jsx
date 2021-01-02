@@ -3,8 +3,8 @@ import { Heading, Flex, Box } from "@chakra-ui/react";
 
 function Projects() {
   return (
-    <Flex justifyContent="flex-start" alignItems="center" pt="50px">
-      <Box w="100px" h="2px" bg="rgba(219, 211, 215, .1)" ml="120px"></Box>
+    <Flex justifyContent="start" alignItems="center" w="80%">
+      <Box w="100px" h="2px" bg="rgba(219, 211, 215, .5)"></Box>
       <Heading
         fontSize="3rem"
         textAlign="center"

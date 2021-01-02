@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Stack, Image, Flex } from "@chakra-ui/react";
+import { Box, Image, Flex, VStack } from "@chakra-ui/react";
 import Blog from "./Blog";
 import Nav from "./Nav";
 import Contact from "./Contact";
@@ -7,13 +7,13 @@ import Projects from "./Projects";
 
 function Portfolio() {
   return (
-    <Stack bg="rgba(0, 0, 0, .7)">
+    <VStack bg="rgba(0, 0, 0, .8)" spacing="50px">
       <Box
         bg="rgba(0, 0, 0, .9)"
-        h="90vh"
         width="90%"
-        m="auto"
+        mt="30px"
         borderRadius="40px"
+        py="50px"
         boxShadow="20px 20px 50px 10px black"
       >
         <Box width="90%" m="auto">
@@ -34,7 +34,7 @@ function Portfolio() {
         </Box>
       </Box>
       <Projects />
-    </Stack>
+    </VStack>
   );
 }
 
