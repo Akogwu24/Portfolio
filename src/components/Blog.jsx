@@ -8,9 +8,9 @@ function Blog() {
       flexDirection="column"
       justifyContent="center"
       align="flex-start"
-      minH="500px"
-      w="40%"
+      maxWidth="400px"
       fontFamily="cursive"
+      py="70px"
     >
       <Text fontSize="2em" fontFamily="Dancing Script, cursive">
         Hello,

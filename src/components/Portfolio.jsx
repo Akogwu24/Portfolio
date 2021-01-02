@@ -16,7 +16,7 @@ function Portfolio() {
         py="50px"
         boxShadow="20px 20px 50px 10px black"
       >
-        <Box width="90%" m="auto">
+        <Box maxWidth="90%" m="auto">
           <Nav />
           <Flex justifyContent="space-between" alignItems="center">
             <Blog />
