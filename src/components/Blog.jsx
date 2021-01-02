@@ -15,7 +15,13 @@ function Blog() {
       <Text fontSize="2em" fontFamily="Dancing Script, cursive">
         Hello,
       </Text>
-      <Heading fontSize="2.5rem" fontFamily="cursive" m="5px 0 20px 0">
+      <Heading
+        fontSize="2.5rem"
+        fontFamily="cursive"
+        color="#ad6507"
+        m="5px 0 20px 0"
+        fontStyle="italic"
+      >
         Akogwu Emmanuel
       </Heading>
       <Text fontSize="1.15rem" letterSpacing="0.4px" textAlign="justify">

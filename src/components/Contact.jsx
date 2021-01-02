@@ -8,7 +8,7 @@ import { ReactComponent as Call } from "../images/call1.svg";
 
 function Contact() {
   return (
-    <Flex justify="center" align="center" mt="35px">
+    <Flex justify="center" align="center" mt="25px">
       <Box h="2px" w="120%" bg="rgba(219, 211, 215, .1)"></Box>
       <Link href="2348168035893">
         <Call as="a" />
